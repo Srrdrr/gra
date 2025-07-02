@@ -1,0 +1,1 @@
+let countryInput = document.getElementById("countryInput")
